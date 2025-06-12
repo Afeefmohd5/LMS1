@@ -1,16 +1,16 @@
 import React from 'react';
 
 const dummyGrades = [
-  { id: 1, student: 'Alice Johnson', course: 'Mathematics 101', grade: 'A' },
-  { id: 2, student: 'Bob Smith', course: 'Physics 201', grade: 'B+' },
-  { id: 3, student: 'Charlie Brown', course: 'Chemistry 101', grade: 'A-' },
-  { id: 4, student: 'Diana Prince', course: 'English Literature', grade: 'B' },
-  { id: 5, student: 'Ethan Hunt', course: 'Computer Science', grade: 'A+' },
-  { id: 6, student: 'Fiona Glenanne', course: 'History 101', grade: 'B+' },
-  { id: 7, student: 'George Michael', course: 'Biology 201', grade: 'A' },
-  { id: 8, student: 'Hannah Baker', course: 'Art Appreciation', grade: 'A-' },
-  { id: 9, student: 'Ian Fleming', course: 'Economics', grade: 'B' },
-  { id: 10, student: 'Jane Doe', course: 'Philosophy', grade: 'A' },
+  { id: 1, student: 'Alice Johnson', course: 'Python', grade: 'A' },
+  { id: 2, student: 'Bob Smith', course: 'DBMS', grade: 'B+' },
+  { id: 3, student: 'Charlie Brown', course: 'Big Data', grade: 'A-' },
+  { id: 4, student: 'Diana Prince', course: 'Digital Marketing', grade: 'B' },
+  { id: 5, student: 'Ethan Hunt', course: 'Web Development', grade: 'A+' },
+  { id: 6, student: 'Fiona Glenanne', course: 'Full Stack web development', grade: 'B+' },
+  { id: 7, student: 'George Michael', course: 'Data Visualization', grade: 'A' },
+  { id: 8, student: 'Hannah Baker', course: 'Data Analysis', grade: 'A-' },
+  { id: 9, student: 'Ian Fleming', course: 'Fundamentals on Supabase', grade: 'B' },
+  { id: 10, student: 'Jane Doe', course: 'Java', grade: 'A' },
 ];
 
 const Gradebook = () => {

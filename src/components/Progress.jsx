@@ -1,16 +1,16 @@
 import React from 'react';
 
 const dummyProgress = [
-  { id: 1, student: 'Alice Johnson', course: 'Mathematics 101', progress: 85 },
-  { id: 2, student: 'Bob Smith', course: 'Physics 201', progress: 70 },
-  { id: 3, student: 'Charlie Brown', course: 'Chemistry 101', progress: 90 },
-  { id: 4, student: 'Diana Prince', course: 'English Literature', progress: 60 },
-  { id: 5, student: 'Ethan Hunt', course: 'Computer Science', progress: 95 },
-  { id: 6, student: 'Fiona Glenanne', course: 'History 101', progress: 75 },
-  { id: 7, student: 'George Michael', course: 'Biology 201', progress: 80 },
-  { id: 8, student: 'Hannah Baker', course: 'Art Appreciation', progress: 85 },
-  { id: 9, student: 'Ian Fleming', course: 'Economics', progress: 65 },
-  { id: 10, student: 'Jane Doe', course: 'Philosophy', progress: 90 },
+  { id: 1, student: 'Alice Johnson', course: 'Python', Progress: '85' },
+  { id: 2, student: 'Bob Smith', course: 'DBMS', progress: 70 },
+  { id: 3, student: 'Charlie Brown', course: 'Big Data', progress: 90 },
+  { id: 4, student: 'Diana Prince', course: 'Digital Marketing', progress: 60 },
+  { id: 5, student: 'Ethan Hunt', course: 'Web Development', progress: 95 },
+  { id: 6, student: 'Fiona Glenanne', course: 'Full Stack web development', progress: 75},
+  { id: 7, student: 'George Michael', course: 'Data Visualization', progress: 80 },
+  { id: 8, student: 'Hannah Baker', course: 'Data Analysis', progress: 85 },
+  { id: 9, student: 'Ian Fleming', course: 'Fundamentals on Supabase',progress: 65 },
+  { id: 10, student: 'Jane Doe', course: 'Java', progress: 90},
 ];
 
 const Progress = () => {
